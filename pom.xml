@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>tw.fed</groupId>
 	<artifactId>RestAPITestServer</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>v1</version>
 	<name>RestAPITestServer</name>
 	<description>Demo project for Spring Boot</description>
 
@@ -80,6 +80,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>restapitestserver</finalName>
 	</build>
 
 </project>
